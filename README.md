@@ -1,6 +1,6 @@
-# Lesson-1-Assignment
+# Lesson Assignments
 
-Assignment for Lesson 1 for the Python course
+Assignments for the Python course :)
 
 ## Author
 
